@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[【优选搜索】 1001552](https://potholing.github.io/plan/public)
+[【优选搜索】 1001552](https://potholing.github.io/plan/1001552)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
