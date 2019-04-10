@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-【优选搜索】 1001552[https://potholing.github.io/plan/public]
+[【优选搜索】 1001552](https://potholing.github.io/plan/public)
 
 - Bulleted
 - List
