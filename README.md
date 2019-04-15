@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-进行中：
+[进行中](https://potholing.github.io/plan)：
 
 [【优选2级分类】 1001554](https://potholing.github.io/plan/【优选2级分类】%20%20%20%201001554/index.html)
 
@@ -35,9 +35,9 @@ Syntax highlighted code block
 [【满额包邮优化2】 1001553](https://potholing.github.io/plan/【满额包邮优化2】%20%20%20%201001553/index.html)
 
 
-规划中：
+[规划中](https://potholing.github.io/plan)：
 
-已发布：
+[已发布](https://potholing.github.io/plan)：
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
