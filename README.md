@@ -27,9 +27,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 进行中：
-[【优选2级分类】 1001554](https://potholing.github.io/plan/【优选2级分类】%20%20%20%201001554)
-[【优选搜索】 1001552](https://potholing.github.io/plan/【优选搜索】%201001552)
-[【满额包邮优化2】 1001553](https://potholing.github.io/plan/【满额包邮优化2】%20%20%20%201001553)
+
+[【优选2级分类】 1001554](https://potholing.github.io/plan/【优选2级分类】%20%20%20%201001554/index.html)
+
+[【优选搜索】 1001552](https://potholing.github.io/plan/【优选搜索】%201001552/index.html)
+
+[【满额包邮优化2】 1001553](https://potholing.github.io/plan/【满额包邮优化2】%20%20%20%201001553/index.html)
+
 
 规划中：
 
