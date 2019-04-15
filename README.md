@@ -2,10 +2,7 @@
 
 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 [进行中](https://potholing.github.io/plan)：
 
 [【优选2级分类】 1001554](https://potholing.github.io/plan/【优选2级分类】%20%20%20%201001554/index.html)
@@ -35,3 +32,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
