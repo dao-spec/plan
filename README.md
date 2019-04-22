@@ -5,8 +5,8 @@
 
 [进行中](https://potholing.github.io/plan)：
 
-[【优选2级分类】 1001554](https://potholing.github.io/plan/1001554/index.html)
  ```
+[【优选2级分类】 1001554](https://potholing.github.io/plan/1001554/index.html)
  陈强、陈平、祝子佳
     Java    4.24提测（本周三）
     WEEX    4.24提测（本周三）
