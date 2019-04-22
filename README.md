@@ -15,7 +15,9 @@
 [测试、验收中](https://potholing.github.io/plan)
 
 [【优选搜索】 1001552](https://potholing.github.io/plan/1001552/index.html)
-    陈平
+    Java    4.24提测（本周三）
+    WEEX    4.24提测（本周三）
+    H5      4.29提测（下周一）
 
 
 [规划中](https://potholing.github.io/plan)：
