@@ -7,14 +7,17 @@
 
 [【优选2级分类】 1001554](https://potholing.github.io/plan/1001554/index.html)
  ```
+ 陈强、陈平、祝子佳
     Java    4.24提测（本周三）
     WEEX    4.24提测（本周三）
     H5      4.29提测（下周一）
-```   
+```    
 
 [【满额包邮优化2】 1001553](https://potholing.github.io/plan/1001553/index.html)
-    王欢、陈平、祝子佳
+ ```
+ 王欢、陈平、祝子佳
 
+```   
 
 [测试、验收中](https://potholing.github.io/plan):
 
