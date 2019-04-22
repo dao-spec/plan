@@ -3,7 +3,7 @@
 
 
 
-[#进行中](https://potholing.github.io/plan)：
+#进行中：
 
 [【优选2级分类】 1001554](https://potholing.github.io/plan/1001554/index.html)
  ```
