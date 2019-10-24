@@ -1,7 +1,7 @@
 # 项目一组
 
 
-![Image](https://potholing.github.io/plan/plan.png)
+![Image](./plan.png)
 
 ## [进行中](https://potholing.github.io/plan):
 [【优选——物流轨迹】 1001598](https://potholing.github.io/plan/1001598/index.html)
