@@ -160,7 +160,7 @@
   font-style:normal;
 }
 .refs-design-material {
-  font-family:'Noto Sans CJK SC';
+  font-family:'NotoSansCJKsc-Regular', 'Noto Sans CJK SC';
   font-weight:400;
   font-style:normal;
 }
@@ -189,5 +189,13 @@
 }
 ._图片_1 {
   color:#000000;
+}
+.menu_item {
+}
+.sticky_3 {
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
