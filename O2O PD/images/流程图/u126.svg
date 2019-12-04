@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="60px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="294" y1="180" x2="294" y2="240" id="LinearGradient39">
-      <stop id="Stop40" stop-color="#ffffff" offset="0" />
-      <stop id="Stop41" stop-color="#f2f2f2" offset="0" />
-      <stop id="Stop42" stop-color="#e4e4e4" offset="1" />
-      <stop id="Stop43" stop-color="#ffffff" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="294" y1="180" x2="294" y2="240" id="LinearGradient40">
+      <stop id="Stop41" stop-color="#ffffff" offset="0" />
+      <stop id="Stop42" stop-color="#f2f2f2" offset="0" />
+      <stop id="Stop43" stop-color="#e4e4e4" offset="1" />
+      <stop id="Stop44" stop-color="#ffffff" offset="1" />
     </linearGradient>
   </defs>
   <g transform="matrix(1 0 0 1 -264 -180 )">
-    <path d="M 294 180  C 310.8 180  324 193.2  324 210  C 324 226.8  310.8 240  294 240  C 277.2 240  264 226.8  264 210  C 264 193.2  277.2 180  294 180  Z " fill-rule="nonzero" fill="url(#LinearGradient39)" stroke="none" />
+    <path d="M 294 180  C 310.8 180  324 193.2  324 210  C 324 226.8  310.8 240  294 240  C 277.2 240  264 226.8  264 210  C 264 193.2  277.2 180  294 180  Z " fill-rule="nonzero" fill="url(#LinearGradient40)" stroke="none" />
     <path d="M 294 180.5  C 310.52 180.5  323.5 193.48  323.5 210  C 323.5 226.52  310.52 239.5  294 239.5  C 277.48 239.5  264.5 226.52  264.5 210  C 264.5 193.48  277.48 180.5  294 180.5  Z " stroke-width="1" stroke="#797979" fill="none" />
   </g>
 </svg>
